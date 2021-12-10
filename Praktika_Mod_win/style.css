@@ -1,0 +1,122 @@
+ {
+    margin: 0;
+    padding: 0;
+ }
+  
+  body {
+    background: #d5d5d5;
+    width: 1440px;
+    margin: 0 auto;
+    font-family: "Roboto", sans-serif;
+  }
+  
+  .header {
+    width: 1073px;
+    display: flex;
+    margin: 55px  auto;
+  }
+  
+  .img_start {
+    width: 519px;
+    height: 193px;
+    margin: 0px  auto;
+  }
+  
+   
+  .portfolio {
+    width: 861px;
+    margin-top: 111px;
+    margin: 0px  auto;
+  }
+  
+  .p-text {
+    font-style: normal;
+    font-weight: bold;
+    font-size: 40px;
+    line-height: 75px;
+    text-align: center;
+    color: #000000;
+  }
+   .i-text  {
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 24px;
+    line-height: 0%;
+    text-align: center;
+    color: #1E3895;
+   }
+  .icons
+  {
+      margin-left: 69px;
+      margin-top: 41px;
+  }
+  
+  .icon-item
+  {
+      margin-left: 49px;
+  }
+  .article
+  {
+    display: flex;
+    flex-direction: row;
+    margin-top: 20px;
+    margin-right: 30px  auto;
+  }
+  .left
+  {
+    width: 206px;
+    height: 178px;
+    margin-right: 50px;
+  }
+  .centr
+  {
+    width: 206px;
+    height: 178px;
+    margin-right: 50px;
+  }
+  .centr1
+  {
+    width: 206px;
+    height: 178px;
+    margin-right: 50px;
+  }
+  .rayt 
+  {
+    width: 206px;
+    height: 178px;
+  }
+  
+  .foother { margin-top: 170px;}
+ 
+  .btn 
+  {
+    height: 65px;
+    width: 484px;
+    left: 547px;
+    top: 727px;
+    background: linear-gradient(180deg, #CE4444 0%, #000000 97.92%);
+    border: 0; 
+    cursor: pointer;
+    Font style: Bold;
+    font-weight: 700px;
+    Font size: 18px;
+    color: #FFFFFF;
+    display: block;
+    margin:0 auto;
+    border-radius: 0px;
+  }
+  
+  .modal
+  {
+     display: none;
+      width: 400px;
+      height: 200px;
+      background-color: rgb(236, 176, 176);
+      position: absolute;
+      top: 50px;
+      left: 100vh;
+  } 
+  .showed {
+    display: block;
+  }
